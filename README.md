@@ -24,9 +24,18 @@ Link Insertion Syntax : [sample link](https://www.google.com/search?q=what+is+re
 Image Insertion syntax : 
 ![Space Ship](https://thumbs.dreamstime.com/b/alien-mothership-spaceship-deep-space-ufo-spacecraft-flying-universe-planet-stars-rear-view-d-rendering-render-127064275.jpg)
 
-List Syntax : star_space_Listname_nextLine_TabSpace_staragain.
+List 
+
+Unordered List : Syntax : star_space_Listname_nextLine_TabSpace_staragain.
 
 * Demo_List
   * Item1
   * Item2
   * Item3
+
+Unordered List : Syntax : numbger_space_Listname_nextLine_2TabSpaces_numbergain.
+
+1. Oredered List
+  1. item1
+  2. item2
+  3. item3

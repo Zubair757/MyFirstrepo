@@ -30,15 +30,16 @@ Unordered List : Syntax : star_space_Listname_nextLine_TabSpace_staragain.
 
 * Demo_List
   * Item1
-
-Tables syntax
-
   * Item2
   * Item3
 
 Unordered List : Syntax : numbger_space_Listname_nextLine_2TabSpaces_numbergain.
 
+Ordered list : Syntax : numbger_space_Listname_nextLine_2TabSpaces_numbergain.
 
+1. LIST2
+  1. item1
+  2. item2
 
 Tables Symtax :
 

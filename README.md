@@ -7,6 +7,9 @@ Testing demo repo
 ##### Heading 5
 ###### Heading 6
 Upto 6 Heading are only Present.
+
+Just leave an extra line to enter new line in preview
+
 *This is Italic form (Don't give the space)*
 
 **This is Bold form,**

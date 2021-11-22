@@ -26,20 +26,22 @@ Image Insertion syntax :
 
 List 
 
-Unordered List : Syntax : star_space_Listname_nextLine_TabSpace_staragain.
+Unordered List : Syntax : star_space_Listname_nextLine_2or1TabSpace_staragain.
 
 * Demo_List
   * Item1
   * Item2
   * Item3
 
-Unordered List : Syntax : numbger_space_Listname_nextLine_2TabSpaces_numbergain.
+Ordered list : Syntax : number_space_Listname_nextLine_2or3TabSpaces_numbergain.
 
-Ordered list : Syntax : numbger_space_Listname_nextLine_2TabSpaces_numbergain.
+1. ordered list
+   1. item1
+   2. item2
 
-1. LIST2
-  1. item1
-  2. item2
+1. orederd list
+   1. item1
+   2. item2
 
 Tables Symtax :
 

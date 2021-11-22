@@ -38,9 +38,7 @@ Tables syntax
 
 Unordered List : Syntax : numbger_space_Listname_nextLine_2TabSpaces_numbergain.
 
-1.  orderedlist
-  1. item1
-  2. item2 
+
 
 Tables Symtax :
 

@@ -47,3 +47,5 @@ Tables Symtax :
 table1 | table2
 -------|-------
 Name | roll no.
+varun | 78
+Zubair | 56
